@@ -12,7 +12,7 @@ Também é possível usar a tarefa "Manual validation" diretamente em um pipelin
 
 ![ManualValidation@0 – Manual validation v0 task](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/manual-validation-v0?view=azure-pipelines)
 
-<img width="434" alt="image" src="https://github.com/lsmatias/Aprova-es-em-pipelines-YAML/assets/28391885/6b418116-d137-4c48-bdff-e8ee739f4511">
+
 
 
 
